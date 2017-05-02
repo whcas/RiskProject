@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Save>
+<Map>
+  <Continent>
+    <ContinentName>North America</ContinentName>
+    <Value>5</Value>
+    <Territory>
+      <TerritoryName>Alaska</TerritoryName>
+      <Neighbor>NW Territory</Neighbor>
+      <Neighbor>Alberta</Neighbor>
+      <Neighbor>Kamchatka</Neighbor>
+      <X>15</X>
+      <Y>100</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Alberta</TerritoryName>
+      <Neighbor>NW Territory</Neighbor>
+      <Neighbor>Alaska</Neighbor>
+      <Neighbor>Ontario</Neighbor>
+      <Neighbor>Western US</Neighbor>
+      <X>65</X>
+      <Y>145</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>NW Territory</TerritoryName>
+      <Neighbor>Alaska</Neighbor>
+      <Neighbor>Alberta</Neighbor>
+      <Neighbor>Ontario</Neighbor>
+      <Neighbor>Greenland</Neighbor>
+      <X>98</X>
+      <Y>90</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Western US</TerritoryName>
+      <Neighbor>Alberta</Neighbor>
+      <Neighbor>Eastern US</Neighbor>
+      <Neighbor>Ontario</Neighbor>
+      <Neighbor>Central America</Neighbor>
+      <X>90</X>
+      <Y>194</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Greenland</TerritoryName>
+      <Neighbor>NW Territory</Neighbor>
+      <Neighbor>Ontario</Neighbor>
+      <Neighbor>Quebec</Neighbor>
+      <X>229</X>
+      <Y>85</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Ontario</TerritoryName>
+      <Neighbor>NW Territory</Neighbor>
+      <Neighbor>Alberta</Neighbor>
+      <Neighbor>Greenland</Neighbor>
+      <Neighbor>Quebec</Neighbor>
+      <Neighbor>Western US</Neighbor>
+      <Neighbor>Eastern US</Neighbor>
+      <X>137</X>
+      <Y>155</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Quebec</TerritoryName>
+      <Neighbor>Ontario</Neighbor>
+      <Neighbor>Greenland</Neighbor>
+      <Neighbor>Eastern US</Neighbor>
+      <X>188</X>
+      <Y>130</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Eastern US</TerritoryName>
+      <Neighbor>Ontario</Neighbor>
+      <Neighbor>Quebec</Neighbor>
+      <Neighbor>Western US</Neighbor>
+      <Neighbor>Central America</Neighbor>
+      <X>156</X>
+      <Y>215</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Central America</TerritoryName>
+      <Neighbor>Western US</Neighbor>
+      <Neighbor>Eastern US</Neighbor>
+      <Neighbor>Venezwela</Neighbor>
+      <X>98</X>
+      <Y>264</Y>
+    </Territory>
+  </Continent>
+  <Continent>
+    <ContinentName>South America</ContinentName>
+    <Value>2</Value>
+    <Territory>
+      <TerritoryName>Venezwela</TerritoryName>
+      <Neighbor>Brazil</Neighbor>
+      <Neighbor>Peru</Neighbor>
+      <Neighbor>Central America</Neighbor>
+      <X>157</X>
+      <Y>300</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Brazil</TerritoryName>
+      <Neighbor>Venezwela</Neighbor>
+      <Neighbor>Peru</Neighbor>
+      <Neighbor>Argentina</Neighbor>
+      <Neighbor>North Africa</Neighbor>
+      <X>204</X>
+      <Y>345</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Peru</TerritoryName>
+      <Neighbor>Venezwela</Neighbor>
+      <Neighbor>Argentina</Neighbor>
+      <Neighbor>Brazil</Neighbor>
+      <X>151</X>
+      <Y>370</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Argentina</TerritoryName>
+      <Neighbor>Peru</Neighbor>
+      <Neighbor>Brazil</Neighbor>
+      <X>160</X>
+      <Y>436</Y>
+    </Territory>
+  </Continent>
+  <Continent>
+    <ContinentName>Europe</ContinentName>
+    <Value>5</Value>
+    <Territory>
+      <TerritoryName>Iceland</TerritoryName>
+      <Neighbor>Great Britain</Neighbor>
+      <Neighbor>Scandinavia</Neighbor>
+      <Neighbor>Greenland</Neighbor>
+      <X>281</X>
+      <Y>122</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Scandinavia</TerritoryName>
+      <Neighbor>Iceland</Neighbor>
+      <Neighbor>Great Britain</Neighbor>
+      <Neighbor>Russia</Neighbor>
+      <Neighbor>Northern EU</Neighbor>
+      <X>352</X>
+      <Y>101</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Russia</TerritoryName>
+      <Neighbor>Scandinavia</Neighbor>
+      <Neighbor>Northern EU</Neighbor>
+      <Neighbor>Southern EU</Neighbor>
+      <Neighbor>Middle East</Neighbor>
+      <Neighbor>Afghanistan</Neighbor>
+      <Neighbor>Ural</Neighbor>
+      <X>426</X>
+      <Y>162</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Great Britain</TerritoryName>
+      <Neighbor>Iceland</Neighbor>
+      <Neighbor>Scandinavia</Neighbor>
+      <Neighbor>Northern EU</Neighbor>
+      <Neighbor>Western EU</Neighbor>
+      <X>278</X>
+      <Y>186</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Western EU</TerritoryName>
+      <Neighbor>Great Britain</Neighbor>
+      <Neighbor>Northern EU</Neighbor>
+      <Neighbor>Southern EU</Neighbor>
+      <Neighbor>North Africa</Neighbor>
+      <X>281</X>
+      <Y>259</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Northern EU</TerritoryName>
+      <Neighbor>Iceland</Neighbor>
+      <Neighbor>Scandinavia</Neighbor>
+      <Neighbor>Russia</Neighbor>
+      <Neighbor>Great Britain</Neighbor>
+      <Neighbor>Western EU</Neighbor>
+      <Neighbor>Southern EU</Neighbor>
+      <X>347</X>
+      <Y>187</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Southern EU</TerritoryName>
+      <Neighbor>Northern EU</Neighbor>
+      <Neighbor>Russia</Neighbor>
+      <Neighbor>Western EU</Neighbor>
+      <Neighbor>North Africa</Neighbor>
+      <Neighbor>EgYpt</Neighbor>
+      <Neighbor>Middle East</Neighbor>
+      <X>353</X>
+      <Y>239</Y>
+    </Territory>
+  </Continent>
+  <Continent>
+    <ContinentName>Africa</ContinentName>
+    <Value>5</Value>
+    <Territory>
+      <TerritoryName>North Africa</TerritoryName>
+      <Neighbor>Brazil</Neighbor>
+      <Neighbor>Southern EU</Neighbor>
+      <Neighbor>Western EU</Neighbor>
+      <Neighbor>Center Africa</Neighbor>
+      <Neighbor>EgYpt</Neighbor>
+      <Neighbor>East Africa</Neighbor>
+      <X>333</X>
+      <Y>343</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>EgYpt</TerritoryName>
+      <Neighbor>Southern EU</Neighbor>
+      <Neighbor>East Africa</Neighbor>
+      <Neighbor>North Africa</Neighbor>
+      <Neighbor>Middle East</Neighbor>
+      <X>376</X>
+      <Y>310</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>East Africa</TerritoryName>
+      <Neighbor>Madagascar</Neighbor>
+      <Neighbor>South Africa</Neighbor>
+      <Neighbor>Center Africa</Neighbor>
+      <Neighbor>North Africa</Neighbor>
+      <Neighbor>EgYpt</Neighbor>
+      <Neighbor>Middle East</Neighbor>
+      <X>418</X>
+      <Y>363</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Center Africa</TerritoryName>
+      <Neighbor>North Africa</Neighbor>
+      <Neighbor>East Africa</Neighbor>
+      <Neighbor>South Africa</Neighbor>
+      <X>363</X>
+      <Y>400</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>South Africa</TerritoryName>
+      <Neighbor>Center Africa</Neighbor>
+      <Neighbor>East Africa</Neighbor>
+      <Neighbor>Madagascar</Neighbor>
+      <X>381</X>
+      <Y>460</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Madagascar</TerritoryName>
+      <Neighbor>East Africa</Neighbor>
+      <Neighbor>South Africa</Neighbor>
+      <X>467</X>
+      <Y>466</Y>
+    </Territory>
+  </Continent>
+  <Continent>
+    <ContinentName>Asia</ContinentName>
+    <Value>7</Value>
+    <Territory>
+      <TerritoryName>Ural</TerritoryName>
+      <Neighbor>Russia</Neighbor>
+      <Neighbor>Siberia</Neighbor>
+      <Neighbor>China</Neighbor>
+      <Neighbor>Afghanistan</Neighbor>
+      <X>487</X>
+      <Y>136</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Siberia</TerritoryName>
+      <Neighbor>Ural</Neighbor>
+      <Neighbor>China</Neighbor>
+      <Neighbor>Mongolia</Neighbor>
+      <Neighbor>Irkutsk</Neighbor>
+      <Neighbor>Yakutsk</Neighbor>
+      <X>535</X>
+      <Y>105</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Yakutsk</TerritoryName>
+      <Neighbor>Siberia</Neighbor>
+      <Neighbor>Irkutsk</Neighbor>
+      <Neighbor>Kamchatka</Neighbor>
+      <X>596</X>
+      <Y>70</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Kamchatka</TerritoryName>
+      <Neighbor>Yakutsk</Neighbor>
+      <Neighbor>Irkutsk</Neighbor>
+      <Neighbor>Japan</Neighbor>
+      <Neighbor>Alaska</Neighbor>
+      <X>646</X>
+      <Y>107</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Afghanistan</TerritoryName>
+      <Neighbor>Russia</Neighbor>
+      <Neighbor>Ural</Neighbor>
+      <Neighbor>China</Neighbor>
+      <Neighbor>India</Neighbor>
+      <Neighbor>Middle East</Neighbor>
+      <X>481</X>
+      <Y>212</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>China</TerritoryName>
+      <Neighbor>Ural</Neighbor>
+      <Neighbor>Siberia</Neighbor>
+      <Neighbor>Mongolia</Neighbor>
+      <Neighbor>Southeast Asia</Neighbor>
+      <Neighbor>India</Neighbor>
+      <Neighbor>Afghanistan</Neighbor>
+      <X>570</X>
+      <Y>252</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Mongolia</TerritoryName>
+      <Neighbor>Irkutsk</Neighbor>
+      <Neighbor>Kamchatka</Neighbor>
+      <Neighbor>Japan</Neighbor>
+      <Neighbor>China</Neighbor>
+      <Neighbor>Siberia</Neighbor>
+      <X>589</X>
+      <Y>199</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Irkutsk</TerritoryName>
+      <Neighbor>Yakutsk</Neighbor>
+      <Neighbor>Kamchatka</Neighbor>
+      <Neighbor>Mongolia</Neighbor>
+      <Neighbor>Siberia</Neighbor>
+      <X>579</X>
+      <Y>153</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Japan</TerritoryName>
+      <Neighbor>Kamchatka</Neighbor>
+      <Neighbor>Mongolia</Neighbor>
+      <X>669</X>
+      <Y>203</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Middle East</TerritoryName>
+      <Neighbor>Russia</Neighbor>
+      <Neighbor>Afghanistan</Neighbor>
+      <Neighbor>India</Neighbor>
+      <Neighbor>East Africa</Neighbor>
+      <Neighbor>EgYpt</Neighbor>
+      <Neighbor>Southern EU</Neighbor>
+      <X>425</X>
+      <Y>278</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>India</TerritoryName>
+      <Neighbor>Afghanistan</Neighbor>
+      <Neighbor>China</Neighbor>
+      <Neighbor>Southeast Asia</Neighbor>
+      <Neighbor>Middle East</Neighbor>
+      <X>519</X>
+      <Y>280</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Southeast Asia</TerritoryName>
+      <Neighbor>China</Neighbor>
+      <Neighbor>Indonesia</Neighbor>
+      <Neighbor>India</Neighbor>
+      <X>582</X>
+      <Y>314</Y>
+    </Territory>
+  </Continent>
+  <Continent>
+    <ContinentName>Australia</ContinentName>
+    <Value>2</Value>
+    <Territory>
+      <TerritoryName>Indonesia</TerritoryName>
+      <Neighbor>Southeast Asia</Neighbor>
+      <Neighbor>New Guinea</Neighbor>
+      <Neighbor>Western Australia</Neighbor>
+      <X>581</X>
+      <Y>395</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>New Guinea</TerritoryName>
+      <Neighbor>Indonesia</Neighbor>
+      <Neighbor>Eastern Australia</Neighbor>
+      <X>650</X>
+      <Y>372</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Western Australia</TerritoryName>
+      <Neighbor>Indonesia</Neighbor>
+      <Neighbor>Eastern Australia</Neighbor>
+      <X>617</X>
+      <Y>468</Y>
+    </Territory>
+    <Territory>
+      <TerritoryName>Eastern Australia</TerritoryName>
+      <Neighbor>New Guinea</Neighbor>
+      <Neighbor>Western Australia</Neighbor>
+      <X>675</X>
+      <Y>435</Y>
+    </Territory>
+  </Continent>
+</Map>
+</Save>

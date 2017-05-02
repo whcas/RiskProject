@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Save>
+  <Map>
+    <Continent>
+      <ContinentName>The North</ContinentName>
+      <Value>4</Value>
+      <Territory>
+        <TerritoryName>The Wall</TerritoryName>
+        <x></x>
+        <y></y>
+      </Territory>
+      <Territory>
+        <TerritoryName>Skagos</TerritoryName>
+        <x></x>
+        <y></y>
+      </Territory>
+      <Territory>
+        <TerritoryName>The Grey Cliffs</TerritoryName>
+        <x></x>
+        <y></y>
+      </Territory>
+      <Territory>
+        <TerritoryName>The Wolfswood</TerritoryName>
+        <x></x>
+        <y></y>
+      </Territory>
+      <Territory>
+        <TerritoryName>Winterfell</TerritoryName>
+        <x></x>
+        <y></y>
+      </Territory>
+      <Territory>
+        <TerritoryName>The Rills</TerritoryName>
+        <x></x>
+        <y></y>
+      </Territory>
+      <Territory>
+        <TerritoryName>The Neck</TerritoryName>
+        <x></x>
+        <y></y>
+      </Territory>
+      <Territory>
+        <TerritoryName>The Flint Cliff</TerritoryName>
+        <x></x>
+        <y></y>
+      </Territory>
+    </Continent>
+    <Continent>
+      <ContinentName>Kings Landing</ContinentName>
+      <Value>3</Value>
+      <Territory>
+        <TerritoryName>Iron Islands</TerritoryName>
+        <x></x>
+        <y></y>
+      </Territory>
+      <Territory>
+        <TerritoryName>The RiverLands</TerritoryName>
+        <x></x>
+        <y></y>
+      </Territory>
+      <Territory>
+        <TerritoryName>The Vale</TerritoryName>
+        <x></x>
+        <y></y>
+      </Territory>
+      <Territory>
+        <TerritoryName>Westerlands</TerritoryName>
+        <x></x>
+        <y></y>
+      </Territory>
+      <Territory>
+        <TerritoryName>Crownlands</TerritoryName>
+        <x></x>
+        <y></y>
+      </Territory>
+    </Continent>
+    <Continent>
+      <ContinentName>Dourn</ContinentName>
+      <Value>3</Value>
+      <Territory>
+        <TerritoryName>Shield Lands</TerritoryName>
+        <x></x>
+        <y></y>
+      </Territory>
+      <Territory>
+        <TerritoryName>The Reach</TerritoryName>
+        <x></x>
+        <y></y>
+      </Territory>
+      <Territory>
+        <TerritoryName>The Flint Cliff</TerritoryName>
+        <x></x>
+        <y></y>
+      </Territory>
+      <Territory>
+        <TerritoryName>The Flint Cliff</TerritoryName>
+        <x></x>
+        <y></y>
+      </Territory>
+      <Territory>
+        <TerritoryName>The Flint Cliff</TerritoryName>
+        <x></x>
+        <y></y>
+      </Territory>
+    </Continent>
+    <Continent>
+      <ContinentName>The Free Cities</ContinentName>
+      <Value>4</Value>
+      <Territory>
+        <TerritoryName></TerritoryName>
+      </Territory>
+    </Continent>
+    <Continent>
+      <ContinentName>Valyrian Freehold</ContinentName>
+      <Value>3</Value>
+      <Territory>
+        <TerritoryName></TerritoryName>
+      </Territory>
+    </Continent>
+    <Continent>
+      <ContinentName>The Dothraki Sea</ContinentName>
+      <Value>5</Value>
+      <Territory>
+        <TerritoryName></TerritoryName>
+      </Territory>
+    </Continent>
+    <Continent>
+      <ContinentName>Ghiscar</ContinentName>
+      <Value>4</Value>
+      <Territory>
+        <TerritoryName></TerritoryName>
+      </Territory>
+    </Continent>
+  </Map>
+</Save>
